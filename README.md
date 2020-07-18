@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi, I'm Faouzi 👋 :student: :man_technologist: :comoros:
+
+<img src="faouzimohamed-rabat2020.jpg">
+
 
 <!--
 **faouziMohamed/faouzimohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
