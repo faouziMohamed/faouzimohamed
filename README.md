@@ -11,4 +11,4 @@ I have the bad habit of coding small automatons to resolves every repetitive tas
 ## Informations
  - :man: Faouzi Mohamed
  - :triangular_ruler: Computer Science (SMI)
- - :school: Student at Kenitra's Faculty of Sciences - Ibn Tofail University
+ - :school: Student at [Kenitra's Faculty of Sciences](https://fs.uit.ac.ma/) - [Ibn Tofail University](https://uit.ac.ma/)
