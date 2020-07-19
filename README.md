@@ -2,16 +2,11 @@
 
 <img src="https://github.com/faouziMohamed/faouzimohamed/blob/master/faouzimohamed-rabat2020.jpg" alt="Faouzi Mohamed on Rabat 2020"/>
 
-# Skill
-- Create every automatum I need to do everything I want
-- Find, understand and every tiniest issues about coding :smiling_imp:
+I sneak around in development: web development :earth_africa:, software development (GUI & CLI) :dart:, ..., a bit of designing.  
+I have the bad habit of coding small automatons to resolves every repetitive task. 
+- 🔭 Now I'm facing AI to save time on more rigorous problem...,
+- 🤔 Find, understand and every tiniest issues about coding :smiling_imp:
 - ....
-- Resolving Bugs :imp:
-
-# Developement
-- Web Develepment :earth_africa:
-- Software developement
-
 <!--
 **faouziMohamed/faouzimohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
