@@ -2,6 +2,15 @@
 
 <img src="https://github.com/faouziMohamed/faouzimohamed/blob/master/faouzimohamed-rabat2020.jpg" alt="Faouzi Mohamed on Rabat 2020"/>
 
+# Skill
+- Create every automatum I need to do everything I want
+- Find, understand and every tiniest issues about coding :smiling_imp:
+- ....
+- Resolving Bugs :imp:
+
+# Developement
+- Web Develepment :earth_africa:
+- Software developement
 
 <!--
 **faouziMohamed/faouzimohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
