@@ -5,7 +5,7 @@
 I sneak around in development: web development :earth_africa:, software development (GUI & CLI) :dart:, ..., a bit of designing.  
 I have the bad habit of coding small automatons to resolves every repetitive task. 
 - 🔭 Now I'm facing AI to save time on more rigorous problem...,
-- 🤔 Find, understand and every tiniest issues about coding :smiling_imp:
+- 🤔 Find, understand and solve every tiniest issues about coding :smiling_imp:
 - ....
 
 ## Informations
