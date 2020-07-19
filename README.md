@@ -1,6 +1,6 @@
 # Hi, I'm Faouzi 👋 :student: :man_technologist: :comoros:
 
-<img src="faouzimohamed-rabat2020.jpg" alt="Faouzi Mohamed on Rabat 2020"/>
+<img src="https://github.com/faouziMohamed/faouzimohamed/blob/master/faouzimohamed-rabat2020.jpg" alt="Faouzi Mohamed on Rabat 2020"/>
 
 
 <!--
