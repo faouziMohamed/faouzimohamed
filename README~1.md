@@ -6,12 +6,12 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 ## Tech | Tools
 <!--Some languages-->
 <p align="left">
-    <a href="https://www.python.org/"><img src="svg/dev/languages/python.svg" alt="Python"></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
     <a href='https://www.oracle.com/java/'><img src="svg/dev/languages/java.svg" alt="Java"></a>
-    <a href="https://www.javascript.com/"><img src="svg/dev/languages/js.svg" alt="JavaScript"></a>
+    <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
     <a href="https://www.gnu.org/software/bash/"><img src="svg/dev/tools/bash.svg" alt="Qt c++"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="svg/dev/languages/html.svg" alt="HTML"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="svg/dev/languages/css3.svg" alt="CSS3"> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 </p>
 
 <!-- Github stats -->
