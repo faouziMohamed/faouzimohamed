@@ -14,7 +14,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     <img src="svg/dev/languages/css3.svg" alt="CSS3">
 </p>
 
-<!-- Guthub stats and data science tools -->
+<!-- Github stats -->
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true&include_all_commits=true" alt="GitHub stats" height="190" >  
@@ -22,6 +22,9 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faouzimohamed&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
     </a>
+</p>
+<!-- Data science tools -->
+<p align='center'>
     <img src='https://img.shields.io/static/v1?label=&color=253&style=for-the-badge&logo=qt&message=PyQt5%20|%20PySide2' /> 
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
