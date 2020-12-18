@@ -51,7 +51,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 
 
 <!--Framworks and IDE--> 
-<p align="left">
+<p align="right">
     <a href="https://www.qt.io/"><img src="svg/dev/frameworks/qt.svg" alt="Qt c++"></a>
     <a href="https://www.datacamp.com/"><img src="svg/dev/misc/datascience.svg" alt="Data Science"></a>
     <a href='https://www.jetbrains.com/pycharm/'><img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Jetbrains' Pycharm"></a>
@@ -66,6 +66,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 - 🔭 I’m currently working on an GUI app that let user run SQL queries in a SQLite local database  
 - 🌱 I’m currently learning a set of algorithms for machine learning algorithms using tensorflow
 
+<h2 align='right'> Social </h2>
 <p align="right">
     <a href="https://github.com/faouziMohamed">
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>
