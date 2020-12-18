@@ -5,15 +5,16 @@
 
 I'm a CS student I specialize in software development, processing data :dart:.  Occasionally, i sneak around web development :earth_africa: and a bit of designing.
 
-## Language && TOolS && Frameworks
-
+## Language && TOolS && Frameworks 
 <p align="center">
+    <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
     <img src="svg/dev/languages/python.svg" alt="Python">
     <img src="svg/dev/languages/java.svg" alt="Java">
     <img src="svg/dev/languages/js.svg" alt="JavaScript">
     <img src="svg/dev/tools/bash.svg" alt="Qt c++">
     <img src="svg/dev/languages/html.svg" alt="HTML">
     <img src="svg/dev/languages/css3.svg" alt="CSS3">
+    <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
 </p>
 
 <p style="display:flex; align:flex-box;" align="center">
@@ -36,10 +37,12 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     <img src="svg/dev/tools/visualstudio.svg" alt="Qt c++">
 </p>
 
-	Qt  / PyQt5 / PySide2 / Tensorflow
+Qt  / PyQt5 / PySide2 / Tensorflow
 
 - 🔭 I’m currently working on an GUI app that let user run SQL queries in a SQLite local database  
-- 🌱 I’m currently learning a set of algorithms for machine learning algorithms 
+- 🌱 I’m currently learning a set of algorithms for machine learning algorithms    
+
+
 - ⚡ Fun fact: I don’t trust people who don’t write SQL queries in uppercase⚡ 
 <p align="right">
     <img src="https://gpvc.arturio.dev/faouzimohamed" alt="Profile views"/>
