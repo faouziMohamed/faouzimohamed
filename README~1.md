@@ -25,22 +25,34 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 </p>
 <!-- Data science tools -->
 <p align='center'>
-    <img src='https://img.shields.io/static/v1?label=&color=253&style=for-the-badge&logo=qt&message=PyQt5%20|%20PySide2' /> 
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
-    <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>  
-    <img src='https://img.shields.io/static/v1?label=&color=darkgreen&style=for-the-badge&logo=anaconda&message=Anaconda' alt='Anaconda'/>
+    <a href='https://www.qt.io/qt-for-python'>
+        <img src='https://img.shields.io/static/v1?label=&color=253&style=for-the-badge&logo=qt&message=PyQt5%20|%20PySide2' />
+    </a>
+    <a href='https://www.mysql.com/'>
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    </a>
+    <a href='https://www.oracle.com/database/technologies/appdev/xe.html'>
+        <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+    </a>
+    <a href='https://www.tensorflow.org/'>
+        <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
+    </a>
+    <a href='https://sqlite.org/index.html'>
+        <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>  
+    </a>
+    <a href='https://www.anaconda.com/'>
+        <img src='https://img.shields.io/static/v1?label=&color=darkgreen&style=for-the-badge&logo=anaconda&message=Anaconda' alt='Anaconda'/>
+    </a>
 </p>
 
 <!--Framworks and IDE--> 
 <p align="right">
-    <img src="svg/dev/frameworks/qt.svg" alt="Qt c++">
-    <img src="svg/dev/misc/datascience.svg" alt="Data Science">
-    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Jetbrains' Pycharm">
-    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="Jetbrains Intellij">
-    <img src="svg/dev/tools/jetbrains_clion.svg" alt="Jetbrains Clion">
-    <img src="svg/dev/tools/visualstudio.svg" alt="VSCode">
+    <a href="https://www.qt.io/"><img src="svg/dev/frameworks/qt.svg" alt="Qt c++"></a>
+    <a href="https://www.datacamp.com/"><img src="svg/dev/misc/datascience.svg" alt="Data Science"></a>
+    <a href='https://www.jetbrains.com/pycharm/'><img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Jetbrains' Pycharm"></a>
+    <a href="https://www.jetbrains.com/idea/"><img src="svg/dev/tools/jetbrains_intellij.svg" alt="Jetbrains Intellij"></a>
+    <a href="https://www.jetbrains.com/clion/"><img src="svg/dev/tools/jetbrains_clion.svg" alt="Jetbrains Clion"></a>
+    <a href='https://code.visualstudio.com/'><img src="svg/dev/tools/visualstudio.svg" alt="VSCode"></a>
 </p>
   
 
