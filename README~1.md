@@ -22,17 +22,6 @@ I'm a CS student I specialize in software development, processing data :dart:.  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faouzimohamed&theme=dark&layout=compact&langs_count=8" 
       alt="Top Langs" heigth="190">
 </a>
-</p>
-
-<p align="center">
-    <img src="svg/dev/frameworks/qt.svg" alt="Qt c++">
-    <img src="svg/dev/misc/datascience.svg" alt="Data Science">
-    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Jetbrains' Pycharm">
-    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="Jetbrains Intellij">
-    <img src="svg/dev/tools/jetbrains_clion.svg" alt="Jetbrains Clion">
-    <img src="svg/dev/tools/visualstudio.svg" alt="VSCode">
-</p>
-<p align="center">
     <img src='https://img.shields.io/static/v1?label=&color=253&style=for-the-badge&logo=qt&message=PyQt5%20|%20PySide2' /> 
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
@@ -40,7 +29,16 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-Qt  / PyQt5 / PySide2 / Tensorflow
+<p align="left">
+    <img src="svg/dev/frameworks/qt.svg" alt="Qt c++">
+    <img src="svg/dev/misc/datascience.svg" alt="Data Science">
+    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Jetbrains' Pycharm">
+    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="Jetbrains Intellij">
+    <img src="svg/dev/tools/jetbrains_clion.svg" alt="Jetbrains Clion">
+    <img src="svg/dev/tools/visualstudio.svg" alt="VSCode">
+</p>
+
+
 
 - 🔭 I’m currently working on an GUI app that let user run SQL queries in a SQLite local database  
 - 🌱 I’m currently learning a set of algorithms for machine learning algorithms    
