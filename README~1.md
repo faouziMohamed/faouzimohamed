@@ -5,14 +5,12 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 
 ## Language && TOolS && Frameworks 
 <p align="center">
-    <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
     <img src="svg/dev/languages/python.svg" alt="Python">
     <img src="svg/dev/languages/java.svg" alt="Java">
     <img src="svg/dev/languages/js.svg" alt="JavaScript">
     <img src="svg/dev/tools/bash.svg" alt="Qt c++">
     <img src="svg/dev/languages/html.svg" alt="HTML">
     <img src="svg/dev/languages/css3.svg" alt="CSS3">
-    <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
 </p>
 
 <p style="display:flex; align:flex-box;" align="center">
@@ -26,15 +24,19 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 </a>
 </p>
 
-<p align="center" style='rotate:90deg'>
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
     <img src="svg/dev/frameworks/qt.svg" alt="Qt c++">
     <img src="svg/dev/misc/datascience.svg" alt="Qt c++">
     <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Qt c++">
     <img src="svg/dev/tools/jetbrains_intellij.svg" alt="Qt c++">
     <img src="svg/dev/tools/jetbrains_clion.svg" alt="Qt c++">
     <img src="svg/dev/tools/visualstudio.svg" alt="Qt c++">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
     <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
