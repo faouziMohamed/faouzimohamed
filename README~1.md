@@ -1,8 +1,6 @@
 # Hi, I'm Faouzi Mohamed 👋  :man_technologist: :comoros:
 ![CS student](https://raw.githubusercontent.com/faouziMohamed/faouzimohamed/master/faouzimohamed-rabat2020.jpg)
 
-
-
 I'm a CS student I specialize in software development, processing data :dart:.  Occasionally, i sneak around web development :earth_africa: and a bit of designing.
 
 ## Language && TOolS && Frameworks 
@@ -28,13 +26,16 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 </a>
 </p>
 
-<p align="center">
+<p align="center" style='rotate:90deg'>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="svg/dev/frameworks/qt.svg" alt="Qt c++">
     <img src="svg/dev/misc/datascience.svg" alt="Qt c++">
     <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Qt c++">
     <img src="svg/dev/tools/jetbrains_intellij.svg" alt="Qt c++">
     <img src="svg/dev/tools/jetbrains_clion.svg" alt="Qt c++">
     <img src="svg/dev/tools/visualstudio.svg" alt="Qt c++">
+    <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+    <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 Qt  / PyQt5 / PySide2 / Tensorflow
