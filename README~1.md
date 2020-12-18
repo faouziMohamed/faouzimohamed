@@ -3,7 +3,7 @@
 
 I'm a CS student I specialize in software development, processing data :dart:.  Occasionally, i sneak around web development :earth_africa: and a bit of designing.
 
-## Tech | Tools
+## Tech | Tools | Stats
 <!--Some languages-->
 <p align="left">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -16,7 +16,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 </p>
 
 <!-- Github stats -->
-<p align="center">
+<p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true&include_all_commits=true" alt="GitHub stats" height="190" >  
     </a>
@@ -24,8 +24,16 @@ I'm a CS student I specialize in software development, processing data :dart:.  
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faouzimohamed&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
     </a>
 </p>
+<p align="left">
+    <a href="https://www.qt.io/"><img src="svg/dev/frameworks/qt.svg" alt="Qt c++"></a>
+    <a href="https://www.datacamp.com/"><img src="svg/dev/misc/datascience.svg" alt="Data Science"></a>
+    <a href='https://www.jetbrains.com/pycharm/'><img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Jetbrains' Pycharm"></a>
+    <a href="https://www.jetbrains.com/idea/"><img src="svg/dev/tools/jetbrains_intellij.svg" alt="Jetbrains Intellij"></a>
+    <a href="https://www.jetbrains.com/clion/"><img src="svg/dev/tools/jetbrains_clion.svg" alt="Jetbrains Clion"></a>
+    <a href='https://code.visualstudio.com/'><img src="svg/dev/tools/visualstudio.svg" alt="VSCode"></a>
+</p>
 <!-- Data science tools -->
-<p align='center'>
+<p align='left'>
     <a href='https://www.qt.io/qt-for-python'>
         <img src='https://img.shields.io/static/v1?label=&color=253&style=for-the-badge&logo=qt&message=PyQt5%20|%20PySide2' />
     </a>
@@ -47,14 +55,6 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 </p>
 
 <!--Framworks and IDE--> 
-<p align="right">
-    <a href="https://www.qt.io/"><img src="svg/dev/frameworks/qt.svg" alt="Qt c++"></a>
-    <a href="https://www.datacamp.com/"><img src="svg/dev/misc/datascience.svg" alt="Data Science"></a>
-    <a href='https://www.jetbrains.com/pycharm/'><img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Jetbrains' Pycharm"></a>
-    <a href="https://www.jetbrains.com/idea/"><img src="svg/dev/tools/jetbrains_intellij.svg" alt="Jetbrains Intellij"></a>
-    <a href="https://www.jetbrains.com/clion/"><img src="svg/dev/tools/jetbrains_clion.svg" alt="Jetbrains Clion"></a>
-    <a href='https://code.visualstudio.com/'><img src="svg/dev/tools/visualstudio.svg" alt="VSCode"></a>
-</p>
   
 
 ## The present  <img src="https://gpvc.arturio.dev/faouzimohamed" alt="Profile views"/>  <a href="https://github.com/faouziMohamed/faouzimohamed/"> <img alt="PRs Welcome" src="https://img.shields.io/badge/Pull%20Request-Welcome-00af4f?style=plastic"/> </a>
