@@ -1,4 +1,4 @@
-# Hi, I'm Faouzi Mohamed 👋  :comoros:
+# Hi, I'm Faouzi Mohamed 👋  :comoros:  
 ![CS student](https://raw.githubusercontent.com/faouziMohamed/faouzimohamed/master/faouzimohamed-rabat2020.jpg)
 
 I'm a CS student I specialize in software development, processing data :dart:.  Occasionally, i sneak around web development :earth_africa: and a bit of designing.
@@ -6,12 +6,12 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 ## Tech | Tools
 <!--Some languages-->
 <p align="left">
-    <img src="svg/dev/languages/python.svg" alt="Python">
-    <img src="svg/dev/languages/java.svg" alt="Java">
-    <img src="svg/dev/languages/js.svg" alt="JavaScript">
-    <img src="svg/dev/tools/bash.svg" alt="Qt c++">
-    <img src="svg/dev/languages/html.svg" alt="HTML">
-    <img src="svg/dev/languages/css3.svg" alt="CSS3">
+    <a href="https://www.python.org/"><img src="svg/dev/languages/python.svg" alt="Python"></a>
+    <a href='https://www.oracle.com/java/'><img src="svg/dev/languages/java.svg" alt="Java"></a>
+    <a href="https://www.javascript.com/"><img src="svg/dev/languages/js.svg" alt="JavaScript"></a>
+    <a href="https://www.gnu.org/software/bash/"><img src="svg/dev/tools/bash.svg" alt="Qt c++"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="svg/dev/languages/html.svg" alt="HTML"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="svg/dev/languages/css3.svg" alt="CSS3"> </a>
 </p>
 
 <!-- Github stats -->
