@@ -1,4 +1,4 @@
-# Hi, I'm Faouzi Mohamed 👋  :man_technologist: :comoros:
+# Hi, I'm Faouzi Mohamed 👋  :comoros:
 ![CS student](https://raw.githubusercontent.com/faouziMohamed/faouzimohamed/master/faouzimohamed-rabat2020.jpg)
 
 I'm a CS student I specialize in software development, processing data :dart:.  Occasionally, i sneak around web development :earth_africa: and a bit of designing.
@@ -21,7 +21,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faouzimohamed&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
-    </a>  
+    </a>    
     <img src='https://img.shields.io/static/v1?label=&color=253&style=for-the-badge&logo=qt&message=PyQt5%20|%20PySide2' /> 
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
@@ -41,7 +41,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 </p>
   
 
-## The present  <img src="https://gpvc.arturio.dev/faouzimohamed" alt="Profile views"/> <a href="https://GitHub.com/faouzimohamed/"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything !"/> </a>  <a href="https://github.com/faouziMohamed/faouzimohamed/"> <img alt="PRs Welcome" src="https://img.shields.io/badge/Pull%20Request-Welcome-00af4f?style=plastic"/> </a>
+## The present  <img src="https://gpvc.arturio.dev/faouzimohamed" alt="Profile views"/>  <a href="https://github.com/faouziMohamed/faouzimohamed/"> <img alt="PRs Welcome" src="https://img.shields.io/badge/Pull%20Request-Welcome-00af4f?style=plastic"/> </a>
 
 - 🔭 I’m currently working on an GUI app that let user run SQL queries in a SQLite local database  
 - 🌱 I’m currently learning a set of algorithms for machine learning algorithms using tensorflow
