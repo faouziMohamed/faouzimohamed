@@ -7,9 +7,10 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 <!--Some languages-->
 <p align="left">
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
-    <a href='https://www.oracle.com/java/'><img src="https://img.shields.io/badge/java-dddddb.svg?&style=for-the-badge&logo=java&logoColor=darkred" alt="Java"></a>
+    <a href=""><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></a>
+    <a href='https://www.oracle.com/java/'><img src="https://img.shields.io/badge/java-ffe66d.svg?&style=for-the-badge&logo=java&logoColor=darkred" alt="Java"></a>
     <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-    <a href="https://www.gnu.org/software/bash/"><img src="svg/dev/tools/bash.svg" alt="Qt c++"></a>
+    <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/shell_script-233d4d.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bourne again shell"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 </p>
