@@ -1,10 +1,11 @@
 # Hi, I'm Faouzi Mohamed 👋  :comoros:  
-![CS student](https://raw.githubusercontent.com/faouziMohamed/faouzimohamed/master/faouzimohamed-rabat2020.jpg)
+![CS student](https://raw.githubusercontent.com/faouziMohamed/faouzimohamed/master/pictures/faouzimohamed-rabat2020.jpg)
 
 I'm a CS student I specialize in software development, processing data :dart:.  Occasionally, i sneak around web development :earth_africa: and a bit of designing.
 
 ## Tech | Tools | Stats
 <!-- Framworks -->
+
 <p align='left'>
     <a href='https://www.qt.io/qt-for-python'>
         <img src='https://img.shields.io/static/v1?label=&color=253&style=for-the-badge&logo=qt&message=PyQt5%20|%20PySide2' />
