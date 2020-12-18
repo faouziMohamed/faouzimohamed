@@ -5,7 +5,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 
 ## Tech | Tools
 <!--Some languages-->
-<p align="leftr">
+<p align="left">
     <img src="svg/dev/languages/python.svg" alt="Python">
     <img src="svg/dev/languages/java.svg" alt="Java">
     <img src="svg/dev/languages/js.svg" alt="JavaScript">
@@ -15,13 +15,13 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 </p>
 
 <!-- Guthub stats and data science tools -->
-<p style="display:flex; align:flex-box;" align="left">
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true&include_all_commits=true" alt="GitHub stats" height="190" >
+      <img src="https://github-readme-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true&include_all_commits=true" alt="GitHub stats" height="190" >  
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faouzimohamed&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
-    </a>    
+    </a>
     <img src='https://img.shields.io/static/v1?label=&color=253&style=for-the-badge&logo=qt&message=PyQt5%20|%20PySide2' /> 
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
@@ -31,7 +31,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 </p>
 
 <!--Framworks and IDE--> 
-<p align="left">
+<p align="right">
     <img src="svg/dev/frameworks/qt.svg" alt="Qt c++">
     <img src="svg/dev/misc/datascience.svg" alt="Data Science">
     <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Jetbrains' Pycharm">
