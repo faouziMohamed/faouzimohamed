@@ -15,23 +15,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
 </p>
 
-<!-- Github stats -->
-<p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true&include_all_commits=true" alt="GitHub stats" height="190" >  
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faouzimohamed&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
-    </a>
-</p>
-<p align="left">
-    <a href="https://www.qt.io/"><img src="svg/dev/frameworks/qt.svg" alt="Qt c++"></a>
-    <a href="https://www.datacamp.com/"><img src="svg/dev/misc/datascience.svg" alt="Data Science"></a>
-    <a href='https://www.jetbrains.com/pycharm/'><img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Jetbrains' Pycharm"></a>
-    <a href="https://www.jetbrains.com/idea/"><img src="svg/dev/tools/jetbrains_intellij.svg" alt="Jetbrains Intellij"></a>
-    <a href="https://www.jetbrains.com/clion/"><img src="svg/dev/tools/jetbrains_clion.svg" alt="Jetbrains Clion"></a>
-    <a href='https://code.visualstudio.com/'><img src="svg/dev/tools/visualstudio.svg" alt="VSCode"></a>
-</p>
+
 <!-- Data science tools -->
 <p align='left'>
     <a href='https://www.qt.io/qt-for-python'>
@@ -54,7 +38,27 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     </a>
 </p>
 
+
+<!-- Github stats -->
+<p align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true&include_all_commits=true" alt="GitHub stats" height="190" >  
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faouzimohamed&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
+    </a>
+</p>
+
+
 <!--Framworks and IDE--> 
+<p align="left">
+    <a href="https://www.qt.io/"><img src="svg/dev/frameworks/qt.svg" alt="Qt c++"></a>
+    <a href="https://www.datacamp.com/"><img src="svg/dev/misc/datascience.svg" alt="Data Science"></a>
+    <a href='https://www.jetbrains.com/pycharm/'><img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Jetbrains' Pycharm"></a>
+    <a href="https://www.jetbrains.com/idea/"><img src="svg/dev/tools/jetbrains_intellij.svg" alt="Jetbrains Intellij"></a>
+    <a href="https://www.jetbrains.com/clion/"><img src="svg/dev/tools/jetbrains_clion.svg" alt="Jetbrains Clion"></a>
+    <a href='https://code.visualstudio.com/'><img src="svg/dev/tools/visualstudio.svg" alt="VSCode"></a>
+</p>
   
 
 ## The present  <img src="https://gpvc.arturio.dev/faouzimohamed" alt="Profile views"/>  <a href="https://github.com/faouziMohamed/faouzimohamed/"> <img alt="PRs Welcome" src="https://img.shields.io/badge/Pull%20Request-Welcome-00af4f?style=plastic"/> </a>
