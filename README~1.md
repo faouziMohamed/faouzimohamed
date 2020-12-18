@@ -17,7 +17,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 
 
 <!-- Github stats -->
-<p align="center">
+<p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true&include_all_commits=true" alt="GitHub stats" height="190" >  
     </a>
@@ -38,6 +38,9 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     <a href='https://www.oracle.com/database/technologies/appdev/xe.html'>
         <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
     </a>
+    <a href='https://www.qt.io/'>
+        <img src='https://img.shields.io/badge/Qt5%20(c++)-012a4a.svg?&style=for-the-badge&logo=Qt&logoColor=green' />
+    </a>
     <a href='https://www.tensorflow.org/'>
         <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
     </a>
@@ -52,7 +55,6 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 
 <!--Framworks and IDE--> 
 <p align="left">
-    <a href="https://www.qt.io/"><img src="svg/dev/frameworks/qt.svg" alt="Qt c++"></a>
     <a href="https://www.datacamp.com/"><img src="svg/dev/misc/datascience.svg" alt="Data Science"></a>
     <a href='https://www.jetbrains.com/pycharm/'><img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Jetbrains' Pycharm"></a>
     <a href="https://www.jetbrains.com/idea/"><img src="svg/dev/tools/jetbrains_intellij.svg" alt="Jetbrains Intellij"></a>
