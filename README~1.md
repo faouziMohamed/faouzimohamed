@@ -7,7 +7,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 
 ## Language && TOolS && Frameworks
 
-<p align="center">
+<p align="left">
     <img src="svg/dev/languages/python.svg" alt="Python">
     <img src="svg/dev/languages/java.svg" alt="Java">
     <img src="svg/dev/languages/js.svg" alt="JavaScript">
@@ -18,10 +18,9 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 
 
 
-<p align="center">
+<p align="right">
     <img src="svg/dev/frameworks/qt.svg" alt="Qt c++">
     <img src="svg/dev/misc/datascience.svg" alt="Qt c++">
-    <img src="svg/dev/misc/desktop.svg" alt="Qt c++">
     <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Qt c++">
     <img src="svg/dev/tools/jetbrains_intellij.svg" alt="Qt c++">
     <img src="svg/dev/tools/jetbrains_clion.svg" alt="Qt c++">
@@ -29,13 +28,6 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     <img src="svg/dev/tools/visualstudio_code.svg" alt="Qt c++">
 </p>
 
-
-
-
-
-<p align="center">
-    <img src="svg/devices/pc.svg" alt="Qt c++">
-</p>
 
 	Qt  / PyQt5 / PySide2 / Tensorflow
 
