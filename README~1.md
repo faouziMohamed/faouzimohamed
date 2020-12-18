@@ -41,22 +41,10 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 </p>
   
 
-## The present  
+## The present  <img src="https://gpvc.arturio.dev/faouzimohamed" alt="Profile views"/> <a href="https://GitHub.com/faouzimohamed/"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything !"/> </a>  <a href="https://github.com/faouziMohamed/faouzimohamed/"> <img alt="PRs Welcome" src="https://img.shields.io/badge/Pull%20Request-Welcome-00af4f?style=plastic"/> </a>
 
 - 🔭 I’m currently working on an GUI app that let user run SQL queries in a SQLite local database  
 - 🌱 I’m currently learning a set of algorithms for machine learning algorithms using tensorflow
-
-### Contact me | Find me 
-
-<p align="right">
-    <img src="https://gpvc.arturio.dev/faouzimohamed" alt="Profile views"/>
-    <a href="https://GitHub.com/faouzimohamed/">
-       <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="Ask Me Anything !"/>
-    </a>
-    <a href="https://github.com/faouziMohamed/faouzimohamed/"> 
-        <img alt="PRs Welcome" src="https://img.shields.io/badge/Pull%20Request-Welcome-00af4f?style=plastic"/> 
-    </a>
-</p>  
 
 <p align="right">
     <a href="https://github.com/faouziMohamed">
