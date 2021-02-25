@@ -33,7 +33,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 <!-- Github stats -->
 <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true&include_all_commits=true" alt="GitHub stats" height="190" >  
+      <img src="https://github-readme-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="190" >  
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faouzimohamed&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
