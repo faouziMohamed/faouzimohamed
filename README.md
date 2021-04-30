@@ -69,15 +69,18 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 <h2 align='right'> Social </h2>
 <p align="right">
     <a href="https://github.com/faouziMohamed">
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/github.svg' alt='github' height='30'>
+    </a>
+    <a href="https://gist.github.com/faouziMohamed">
+        <img src='https://user-images.githubusercontent.com/57812398/116732102-27c33000-a9da-11eb-99bf-02903100a59d.png' alt='github gist' height='30'>
     </a>
     <a href="https://www.linkedin.com/in/mohamed-faouzi-faouzoudine-3372281b4/">
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/linkedin.svg' alt='linkedin' height='30'>
     </a>
     <a href="https://www.facebook.com/faouzi.mohamed.97">
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/facebook.svg' alt='facebook' height='30'>
     </a>
     <a href="https://www.instagram.com/______faouzi______/">
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/instagram.svg' alt='instagram' height='30'>
     </a>
 </p>
