@@ -74,7 +74,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     <a href="https://gist.github.com/faouziMohamed">
         <img src='https://user-images.githubusercontent.com/57812398/116732102-27c33000-a9da-11eb-99bf-02903100a59d.png' alt='github gist' height='30'>
     </a>
-    <a href="https://www.linkedin.com/in/mohamed-faouzi-faouzoudine-3372281b4/">
+    <a href="https://www.linkedin.com/in/mohamed-faouzi/">
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/linkedin.svg' alt='linkedin' height='30'>
     </a>
     <a href="https://www.facebook.com/faouzi.mohamed.97">
