@@ -64,7 +64,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 ## The present  <img src="https://gpvc.arturio.dev/faouzimohamed" alt="Profile views"/>  <a href="https://github.com/faouziMohamed/faouzimohamed/"> <img alt="PRs Welcome" src="https://img.shields.io/badge/Pull%20Request-Welcome-00af4f?style=plastic"/> </a>
 
 - 🔭 I’m currently working on an GUI app that let user run SQL queries in a SQLite local database  
-- 🌱 I’m currently learning a set of algorithms for machine learning algorithms using tensorflow
+- 🌱 I’m currently learning a set of machine learning algorithms using tensorflow
 
 <h2 align='right'> Social </h2>
 <p align="right">
