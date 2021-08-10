@@ -48,7 +48,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
     <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/shell_script-233d4d.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bourne again shell"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> </a>
 </p>
 
 <!--Framworks and IDE--> 
@@ -63,9 +63,6 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 ![Snake Eating away my contributions](https://github.com/faouziMohamed/faouzimohamed/blob/output/github-contribution-grid-snake.svg)
 
 ## The present  <img src="https://gpvc.arturio.dev/faouzimohamed" alt="Profile views"/>  <a href="https://github.com/faouziMohamed/faouzimohamed/"> <img alt="PRs Welcome" src="https://img.shields.io/badge/Pull%20Request-Welcome-00af4f?style=plastic"/> </a>
-
-- 🔭 I’m currently working on an GUI app that let user run SQL queries in a SQLite local database  
-- 🌱 I’m currently learning a set of machine learning algorithms using tensorflow
 
 <h2 align='right'> Social </h2>
 <p align="right">
