@@ -60,7 +60,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     <a href='https://code.visualstudio.com/'><img src="svg/dev/tools/visualstudio.svg" alt="VSCode"></a>
 </p>
   
-![Snake Eating away my contributions](https://github.com/faouziMohamed/faouzimohamed/blob/output/github-contribution-grid-snake.svg)
+![Snake Eating away my contributions](https://github.com/faouziMohamed/faouzimohamed/blob/output/github-contribution-grid-snake.gif)
 
 ## The present  <img src="https://gpvc.arturio.dev/faouzimohamed" alt="Profile views"/>  <a href="https://github.com/faouziMohamed/faouzimohamed/"> <img alt="PRs Welcome" src="https://img.shields.io/badge/Pull%20Request-Welcome-00af4f?style=plastic"/> </a>
 
