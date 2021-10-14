@@ -13,9 +13,9 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     <a href='https://www.mysql.com/'>
         <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     </a>
-    <a href='https://www.oracle.com/database/technologies/appdev/xe.html'>
+   <!-- <a href='https://www.oracle.com/database/technologies/appdev/xe.html'>
         <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-    </a>
+    </a> -->
     <a href='https://www.qt.io/'>
         <img src='https://img.shields.io/badge/Qt5%20(c++)-012a4a.svg?&style=for-the-badge&logo=Qt&logoColor=green' />
     </a>
