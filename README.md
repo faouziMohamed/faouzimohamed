@@ -13,9 +13,6 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     <a href='https://www.mysql.com/'>
         <img src="https://img.shields.io/badge/mysql-135e79.svg?&style=for-the-badge&logo=mysql&logoColor=fff"/>
     </a>
-   <!-- <a href='https://www.oracle.com/database/technologies/appdev/xe.html'>
-        <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-    </a> -->
     <a href='https://www.qt.io/'>
         <img src='https://img.shields.io/badge/Qt5%20(c++)-012a4a.svg?&style=for-the-badge&logo=Qt&logoColor=green' />
     </a>
@@ -28,10 +25,10 @@ I'm a CS student I specialize in software development, processing data :dart:.  
 <!-- Github stats -->
 <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="190" >  
+      <img src="https://github-readme-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="160" >  
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faouzimohamed&theme=dark&layout=compact&langs_count=8" alt="Top Langs" heigth="190">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faouzimohamed&hide=css,html&theme=dark&layout=compact&langs_count=6" alt="Top Langs" heigth="160">
     </a>
 </p>
 
