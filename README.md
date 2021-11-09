@@ -11,7 +11,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
         <img src='https://img.shields.io/static/v1?label=&color=253&style=for-the-badge&logo=qt&message=PyQt5%20|%20PySide2' />
     </a>
     <a href='https://www.mysql.com/'>
-        <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/mysql-135e79.svg?&style=for-the-badge&logo=mysql&logoColor=fff"/>
     </a>
    <!-- <a href='https://www.oracle.com/database/technologies/appdev/xe.html'>
         <img src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
@@ -22,9 +22,7 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     <a href='https://www.tensorflow.org/'>
         <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
     </a>
-    <a href='https://www.anaconda.com/'>
-        <img src='https://img.shields.io/static/v1?label=&color=darkgreen&style=for-the-badge&logo=anaconda&message=Anaconda' alt='Anaconda'/>
-    </a>
+    <a href='https://www.mongodb.com/mern-stack'><img src="https://img.shields.io/badge/MERN_STACK-2b1348.svg?&style=for-the-badge&logo=react&logoColor=fff" alt="MERN Stack"></a>
 </p>
 
 <!-- Github stats -->
@@ -48,13 +46,6 @@ I'm a CS student I specialize in software development, processing data :dart:.  
     
 </p>
 
-<!--Framworks and IDE--> 
-<p align="left">    
-    <a href='https://www.jetbrains.com/pycharm/'><img src="svg/dev/tools/jetbrains_pycharm.svg" alt="Jetbrains' Pycharm"></a>
-    <a href="https://www.jetbrains.com/idea/"><img src="svg/dev/tools/jetbrains_intellij.svg" alt="Jetbrains Intellij"></a>
-    <a href='https://code.visualstudio.com/'><img src="svg/dev/tools/visualstudio.svg" alt="VSCode"></a>
-</p>
-  
 ![Snake Eating away my contributions](https://github.com/faouziMohamed/faouzimohamed/blob/output/github-contribution-grid-snake.gif)
 
 ## The present  <img src="https://gpvc.arturio.dev/faouzimohamed" alt="Profile views"/>  <a href="https://github.com/faouziMohamed/faouzimohamed/"> <img alt="PRs Welcome" src="https://img.shields.io/badge/Pull%20Request-Welcome-00af4f?style=plastic"/> </a>
