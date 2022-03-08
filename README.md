@@ -1,9 +1,9 @@
 # Hi, I'm Faouzi Mohamed 👋  :comoros:  
 <!--![CS student](https://raw.githubusercontent.com/faouziMohamed/faouzimohamed/master/pictures/faouzimohamed-rabat2020.jpg)-->
-|         |                  |
-|---------|------------------| 
+
+
 |I am a software engineer/MERN Stack developer with a passion for building software that solves problems. I Love Javascript technologies also I am a DevOps enthusiast. I love to learn new things. | <img alt="coding-freak" src="https://user-images.githubusercontent.com/57812398/157214010-009bc90b-4684-4e07-9a96-5b57b6b42b3e.gif"  />|
-| | |
+|-----------|------------------| 
  
 ## Tech | Tools | Stats
 <!-- Framworks -->
