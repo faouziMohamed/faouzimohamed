@@ -27,6 +27,7 @@
 </p>
 
 <!-- Github stats -->
+<!--
 <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="160" >  
@@ -35,6 +36,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faouzimohamed&count_private=true&hide=css,html,jupyter notebook&theme=dark&layout=compact&langs_count=6" alt="Top Langs" heigth="160">
     </a>
 </p>
+-->
+![Snake Eating away my contributions](https://github.com/faouziMohamed/faouzimohamed/blob/output/github-contribution-grid-snake.gif)
 
 <!--Some languages-->
 <p align="left">
@@ -56,7 +59,6 @@
     
 </p>
 
-![Snake Eating away my contributions](https://github.com/faouziMohamed/faouzimohamed/blob/output/github-contribution-grid-snake.gif)
 
 ## The present  <img src="https://gpvc.arturio.dev/faouzimohamed" alt="Profile views"/></a>
 
