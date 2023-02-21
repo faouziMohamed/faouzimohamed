@@ -9,9 +9,6 @@
 <!-- Framworks -->
 
 <p align='left'>
-    <a href='https://www.qt.io/'>
-        <img src='https://img.shields.io/badge/Qt5%20(c++)-012a4a.svg?&style=for-the-badge&logo=Qt&logoColor=green' />
-    </a>
     <a href='https://dotnet.microsoft.com/en-us/'>
       <img src="https://img.shields.io/badge/DotNet-592c8c.svg?&style=for-the-badge&logo=dotnet&logoColor=white" /> 
     </a>
