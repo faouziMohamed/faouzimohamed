@@ -30,7 +30,7 @@
       <img src="https://readmee-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="160" />  
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://readmee-stats.vercel.app/api/top-langs/?username=faouzimohamed&count_private=true&hide=css,html,jupyter+notebook&theme=dark&layout=compact&langs_count=6" alt="Top Langs" heigth="160" />
+      <img src="https://readmee-stats.vercel.app/api/top-langs/?username=faouzimohamed&count_private=true&hide=css,scss,c,c%2B%2B,tsql,html,jupyter+notebook&theme=dark&layout=compact&langs_count=6" alt="Top Langs" heigth="160" />
     </a>
 </p>
 
