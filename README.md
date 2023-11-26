@@ -36,6 +36,17 @@
 
 ![Snake Eating away my contributions](https://github.com/faouziMohamed/faouzimohamed/blob/output/github-contribution-grid-snake.gif)
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/faouzimohamed/faouzimohamed/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/faouzimohamed/faouzimohamed/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 <!--Some languages-->
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
