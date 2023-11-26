@@ -2,7 +2,7 @@
 <!--![CS student](https://raw.githubusercontent.com/faouziMohamed/faouzimohamed/master/pictures/faouzimohamed-rabat2020.jpg)-->
 
 
-|I am a software engineer, Full-stack software developer ReactJs/DotNet Core/Java/MERN Stack developer with a passion for building software that solves problems. 🦹‍♂️ <br/><br/>  I have a background in computer science and mathematics. I'm interested in the intersection of technology and design, and I Love Javascript technologies. | <img alt="coding-freak" src="https://user-images.githubusercontent.com/57812398/157214010-009bc90b-4684-4e07-9a96-5b57b6b42b3e.gif"  />|
+|I am a software engineer, Full-stack software developer ReactJs/Angular/Java developer with a passion for building software that solves problems. 🦹‍♂️ <br/><br/>  I have a background in computer science and mathematics. I'm interested in the intersection of technology and design, and I Love Javascript technologies. | <img alt="coding-freak" src="https://user-images.githubusercontent.com/57812398/157214010-009bc90b-4684-4e07-9a96-5b57b6b42b3e.gif"  />|
 |-----------|------------------| 
  
 ## Tech | Tools | Stats
