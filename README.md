@@ -25,7 +25,7 @@
       <img src="https://readmee-stats.vercel.app/api?username=faouzimohamed&theme=dark&show_icons=true&&cache_seconds=1900&count_private=true" alt="GitHub stats" height="160" />  
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://readmee-stats.vercel.app/api/top-langs/?username=faouzimohamed&count_private=true&hide=css,scss,c,c%2B%2B,tsql,html,jupyter+notebook&theme=dark&layout=compact&langs_count=6" alt="Top Langs" heigth="160" />
+      <img src="https://readmee-stats.vercel.app/api/top-langs/?username=faouzimohamed&count_private=true&hide=css,ejs,powershell,javascript,python,scss,c,c%2B%2B,tsql,html,jupyter+notebook&theme=dark&layout=compact&langs_count=6" alt="Top Langs" heigth="160" />
     </a>
 </p>  
 
@@ -36,6 +36,7 @@
  <img src="https://img.shields.io/badge/SpringBoot-3B840C.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
  <img src="https://img.shields.io/badge/ReactJs-0000bb.svg?&style=for-the-badge&logo=react&logoColor=#5cd1f7"/> 
  <img src="https://img.shields.io/badge/Typescript-fffff0.svg?&style=for-the-badge&logo=typescript&logoColor=0f24c0"/>
+ <img src="https://img.shields.io/badge/golang-%23abeaee?style=for-the-badge&logo=go" alt="golang" />
  <img src="https://img.shields.io/badge/shell_script-233d4d.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bourne again shell">
  
 </p>
