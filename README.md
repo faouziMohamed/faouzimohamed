@@ -5,7 +5,7 @@
 |I am a software engineer, Full-stack software developer ReactJs/Angular/Java developer with a passion for building software that solves problems. 🦹‍♂️ <br/><br/>  I have a background in computer science and mathematics. I'm interested in the intersection of technology and design, and I Love Javascript technologies. | <img alt="coding-freak" src="https://user-images.githubusercontent.com/57812398/157214010-009bc90b-4684-4e07-9a96-5b57b6b42b3e.gif"  />|
 |-----------|------------------| 
  
-## Tech | Tools | Stats
+## Weapons
 <!-- Framworks -->
 <picture>
   <source
@@ -34,15 +34,13 @@
 <p align="left">
  <img src="https://img.shields.io/badge/java-ffe66d.svg?&style=for-the-badge&logo=java&logoColor=darkred" alt="Java">
  <img src="https://img.shields.io/badge/SpringBoot-3B840C.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
- <img src="https://img.shields.io/badge/ReactJs-0000bb.svg?&style=for-the-badge&logo=react&logoColor=#5cd1f7"/> 
- <img src="https://img.shields.io/badge/Typescript-fffff0.svg?&style=for-the-badge&logo=typescript&logoColor=0f24c0"/>
+ <img src="https://img.shields.io/badge/ReactJs-0000bb.svg?&style=for-the-badge&logo=react&logoColor=#5cd1f7" alt="React Js" /> 
+ <img src="https://img.shields.io/badge/angular-fae7e7.svg?&style=for-the-badge&logo=angular&logoColor=red" alt="Angular" />
+ <img src="https://img.shields.io/badge/Typescript-fffff0.svg?&style=for-the-badge&logo=typescript&logoColor=0f24c0" alt='typescript' />
  <img src="https://img.shields.io/badge/golang-%23abeaee?style=for-the-badge&logo=go" alt="golang" />
  <img src="https://img.shields.io/badge/shell_script-233d4d.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bourne again shell">
  
 </p>
-
-
-## The present  <img src="https://gpvc.arturio.dev/faouzimohamed" alt="Profile views"/></a>
 
 <h2 align='right'> Social </h2>
 <p align="right">
